@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navctns
--  I'm a Front End nUI Developer, Vue Js HTML/CSS
+-  I'm a Front End UI Developer, Vue Js HTML/CSS
 - 👀 I’m interested in working with frontend Projects...
 - 📫 How to reach me ...mail:navctns@gmail.com
 
